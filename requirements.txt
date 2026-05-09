@@ -1,0 +1,19 @@
+streamlit>=1.28.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Image Processing & OCR
+opencv-python>=4.8.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
+
+# Additional utilities
+python-dotenv>=1.0.0
+
+# Optional: LLM components (may have compatibility issues on Python 3.13)
+# Uncomment if you encounter PyTorch/torchvision conflicts
+# transformers>=4.35.0
+# torch>=2.0.0
