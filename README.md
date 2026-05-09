@@ -16,7 +16,9 @@ Behavioral patterns
 
 Customer feedback and textual communication
 
+
 By integrating advanced AI models and ensemble techniques, the system predicts customers who are more likely to respond positively to banking products and services.
+
 
 Features
 
@@ -31,6 +33,7 @@ Customer segmentation and identification
 Marketing report generation
 
 AI-driven banking analytics
+
 
 Technologies Used
 
@@ -47,6 +50,7 @@ Large Language Models (LLMs)
 MySQL / PostgreSQL
 
 HTML, CSS, JavaScript
+
 
 Modules
 
@@ -66,6 +70,7 @@ Customer Identification Module
 
 Report Generation Module
 
+
 System Workflow
 
 Collect customer data
@@ -82,6 +87,7 @@ Predict potential customers
 
 Generate marketing insights and reports
 
+
 Objectives
 
 Improve customer identification accuracy
@@ -94,6 +100,7 @@ Support data-driven decision making
 
 Analyze multimodal customer data efficiently
 
+
 Advantages
 
 Better prediction accuracy using ensemble learning
@@ -105,6 +112,7 @@ Improved customer targeting
 Scalable and efficient system
 
 Intelligent banking analytics
+
 
 Applications
 
@@ -130,13 +138,17 @@ Advanced dashboard visualization
 
 Hybrid deep learning models
 
+
 Conclusion
 
 This project demonstrates how advanced AI technologies such as Large Language Models and ensemble learning can improve customer identification in banking marketing. By analyzing multimodal customer data, the system helps financial institutions make better marketing decisions and improve customer engagement.
 
 Contributors
+
 Mukesh
+
 Team Members
+
 License
 
 This project is developed for academic and research purposes.
